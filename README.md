@@ -15,6 +15,8 @@ Optimize as much as possible.
 
 Help plugins interconnect.
 
+Respect how the user's avatar is set up by roblox.
+
 # Optimal Game Settings
 R-series will not try to impose it's own baked in physics into your game, as a result however you are responsible for setting the game gravity to something realistic to prevent suspension crush. More dynamic suspension is sensitive to the extremely high default gravity to so use the following settings.
 
