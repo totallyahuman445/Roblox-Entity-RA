@@ -1,0 +1,2 @@
+# Entity R-series
+Entity is a community based distributor of Roblox vehicle chassis systems for self propelled land vehicles only. Established 2,024, Entity's goal is to have multiple advanced options for many different vehicle types that are highly extensible and configurable. This project accepts forks and will merge with other forks if an improvement is found.
