@@ -20,4 +20,4 @@ R-series will not try to impose it's own baked in physics into your game, as a r
 
 57.75 Gravity
 
-Maxxed out road friction (ignore other materials like sand and grass.)
+Set road friction to 2 (the maximum) (ignore other materials like sand and grass.)
