@@ -9,7 +9,7 @@ Entity is a community based distributor of Roblox vehicle chassis systems for se
 [![RA Roblox](https://badgen.net/badge/RA/0.50.7/red?icon=https://static.wikia.nocookie.net/logopedia/images/b/b1/Roblox_2022_icon.svg)](https://create.roblox.com/store/asset/16598010136)
 [![RA GitHub](https://badgen.net/badge/RA/0.50.7/red?icon=github)](https://github.com/totallyahuman445/Roblox-Entity-R-series/releases/tag/0.50.7)
 
-Entity's philosophy is:<img alt="Screenshot" src="https://github.com/totallyahuman445/Roblox-Entity-R-series/blob/main/Screenshot.png?raw=true" width="400px" align="right">
+Entity's philosophy is:
 
 - Much like an emulator, try to make recreating as much vehicle types as possible work as best as possible.
 
@@ -34,7 +34,7 @@ Set road friction to 2 (the maximum) (ignore other materials like sand and grass
 
 # Installation
 For the Roblox version just add the model to your inventory and open your inventory and insert the model.
-
+<img alt="Screenshot" src="https://github.com/totallyahuman445/Roblox-Entity-R-series/blob/main/Screenshot.png?raw=true" width="400px" align="right">
 For the GitHub version download the `.rbxm` file and drag and drop or right click and choose "Insert" and choose "Insert from File" and select the file.
 # Forking
 
