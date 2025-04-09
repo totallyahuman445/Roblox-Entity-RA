@@ -26,6 +26,7 @@ Entity's philosophy is:
 - Respect how the user's avatar is set up by roblox.
 
 # Optimal Game Settings
+<img alt="Screenshot" src="https://github.com/totallyahuman445/Roblox-Entity-R-series/blob/main/Screenshot.png?raw=true" width="380px" align="right">
 R-series will not try to impose it's own baked in physics into your game, as a result however you are responsible for setting the game gravity to something realistic to prevent suspension crush. More dynamic suspension is sensitive to the extremely high default gravity to so use the following settings.
 
 57.75 Gravity in the WorkSpace (you will have to compensate the jump settings once you change the gravity, for realism set to 0.7m)
@@ -34,10 +35,10 @@ Set road friction to 2 (the maximum) (ignore other materials like sand and grass
 
 # Installation
 For the Roblox version just add the model to your inventory and open your inventory and insert the model.
-<img alt="Screenshot" src="https://github.com/totallyahuman445/Roblox-Entity-R-series/blob/main/Screenshot.png?raw=true" width="400px" align="right">
-For the GitHub version download the `.rbxm` file and drag and drop or right click and choose "Insert" and choose "Insert from File" and select the file.
-# Forking
 
+For the GitHub version download the `.rbxm` file and drag and drop or right click and choose "Insert" and choose "Insert from File" and select the file.
+
+# Forking
 Using a `.rbxmx` file to update the main repository is recommended because the differences can be immediately seen on GitHub as it shows everything from parts to code changed. `.rbxmx` files are "Source" versions of `.rbxm` while `.rbxm` files are the packed but unreadable versions. Simply pick "Roblox XML Model Files" in the dropdown file type menu when saving an RBXM. You can still add an RBXM version to the main releases.
 
 Please set the position of the chassis to 0 in the properties by erasing everything and typing 0. This will avoid position differences when comparing the RBXMX files with the fork's and the file size.
