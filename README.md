@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-<img alt="Entity logo" src="https://github.com/totallyahuman445/Roblox-Entity-R-series/blob/main/Logo.png?raw=true" width="300px"
+<img alt="Entity logo" src="https://github.com/totallyahuman445/Roblox-Entity-R-series/blob/main/Logo.png?raw=true" width="200px"
   <br>
   
   <b>Entity R-series</b>
