@@ -9,7 +9,7 @@ Entity is a community based distributor of Roblox vehicle chassis systems for se
 [![RA Roblox](https://badgen.net/badge/RA/0.50.7/red?icon=https://static.wikia.nocookie.net/logopedia/images/b/b1/Roblox_2022_icon.svg)](https://create.roblox.com/store/asset/16598010136)
 [![RA GitHub](https://badgen.net/badge/RA/0.50.7/red?icon=github)](https://github.com/totallyahuman445/Roblox-Entity-R-series/releases/tag/0.50.7)
 
-<img alt="Screenshot" src="https://github.com/totallyahuman445/Roblox-Entity-R-series/blob/main/Screenshot.png?raw=true" width="500" align="right">
+<img alt="Screenshot" src="https://github.com/totallyahuman445/Roblox-Entity-R-series/blob/main/Screenshot.png?raw=true" width="400" align="right">
 
 Entity's philosophy is:
 
