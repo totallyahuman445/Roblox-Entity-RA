@@ -1,13 +1,22 @@
-# Entity R-series
-Entity is a community based distributor of Roblox vehicle chassis systems for self propelled land vehicles only. Established 2,024, Entity's goal is to have multiple advanced options for many different vehicle types that are highly extensible and configurable. This project is open to contributions and will merge with other forks if an improvement is found. Entity is a continuation of A-Chassis 6C Version 1.51 and 1.5, 0.50 is forked from an A-Chassis 1.6 prototype build from June 2,023. <img alt="Entity logo" src="https://github.com/totallyahuman445/Roblox-Entity-R-series/blob/main/Logo.png?raw=true" width="300px" align="right">
-
-[![THE List](https://badgen.net/badge/THE%20List/Link/blue?icon=https://static.wikia.nocookie.net/logopedia/images/0/0e/Docs_2020.svg)](https://docs.google.com/document/d/1WvOWw7ST4ZWpsCfXM3abJTTBkCA40NsayIEIdCRJOYM/edit?usp=sharing)
+<h1 align="center">
+  <br>
+<img alt="Entity logo" src="https://github.com/totallyahuman445/Roblox-Entity-R-series/blob/main/Logo.png?raw=true" width="300px"
+  <br>
+  
+  <b>Entity R-series</b>
+  <br>
+  
+  <b>[![THE List](https://badgen.net/badge/THE%20List/Link/blue?icon=https://static.wikia.nocookie.net/logopedia/images/0/0e/Docs_2020.svg)](https://docs.google.com/document/d/1WvOWw7ST4ZWpsCfXM3abJTTBkCA40NsayIEIdCRJOYM/edit?usp=sharing)
 [![Entity Discord server](https://badgen.net/badge/Discord/Link/purple?icon=discord)](https://discord.gg/bS2A448Vrk)
 [![Entity Log](https://badgen.net/badge/Log/Link/blue?icon=https://static.wikia.nocookie.net/logopedia/images/0/0e/Docs_2020.svg)](https://docs.google.com/document/d/1SLW5NOAysg2rE6C52WEPnmOas_MNbeVNEv0xv2f__ps/edit?usp=sharing)
-[![Entity Credits](https://badgen.net/badge/Credits/Link/blue?icon=https://static.wikia.nocookie.net/logopedia/images/0/0e/Docs_2020.svg)](https://docs.google.com/document/d/1-mIgEhmugHfVUDz4vzZMS7XYMoEdLKedy0MedRqvbyA/edit?usp=sharing )
+[![Entity Credits](https://badgen.net/badge/Credits/Link/blue?icon=https://static.wikia.nocookie.net/logopedia/images/0/0e/Docs_2020.svg)](https://docs.google.com/document/d/1-mIgEhmugHfVUDz4vzZMS7XYMoEdLKedy0MedRqvbyA/edit?usp=sharing )</b>
 
-[![RA Roblox](https://badgen.net/badge/RA/0.50.7/red?icon=https://static.wikia.nocookie.net/logopedia/images/b/b1/Roblox_2022_icon.svg)](https://create.roblox.com/store/asset/16598010136)
-[![RA GitHub](https://badgen.net/badge/RA/0.50.7/red?icon=github)](https://github.com/totallyahuman445/Roblox-Entity-R-series/releases/tag/0.50.7)
+  <b>[![RA Roblox](https://badgen.net/badge/RA/0.50.7/red?icon=https://static.wikia.nocookie.net/logopedia/images/b/b1/Roblox_2022_icon.svg)](https://create.roblox.com/store/asset/16598010136)
+[![RA GitHub](https://badgen.net/badge/RA/0.50.7/red?icon=github)](https://github.com/totallyahuman445/Roblox-Entity-R-series/releases/tag/0.50.7)</b>
+  <br>
+</h1>
+
+Entity is a community based distributor of Roblox vehicle chassis systems for self propelled land vehicles only. Established in 2,024, Entity's goal is to have multiple advanced options for many different vehicle types that are highly extensible and configurable. This project is open to contributions and will merge with other forks if an improvement is found. Entity is a continuation of A-Chassis 6C Version 1.51 and 1.5, 0.50 is forked from an A-Chassis 1.6 prototype build from June 2,023. 
 
 Entity's philosophy is:
 
