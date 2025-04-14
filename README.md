@@ -11,6 +11,7 @@
 [![Entity Log](https://flat.badgen.net/badge/Log/Link/blue?icon=https://static.wikia.nocookie.net/logopedia/images/0/0e/Docs_2020.svg)](https://docs.google.com/document/d/1SLW5NOAysg2rE6C52WEPnmOas_MNbeVNEv0xv2f__ps/edit?usp=sharing)
 [![Entity Credits](https://flat.badgen.net/badge/Credits/Link/blue?icon=https://static.wikia.nocookie.net/logopedia/images/0/0e/Docs_2020.svg)](https://docs.google.com/document/d/1-mIgEhmugHfVUDz4vzZMS7XYMoEdLKedy0MedRqvbyA/edit?usp=sharing )</b>
 [![0.50 Power curve visualizer](https://flat.badgen.net/badge/Power%20curve%20visualizer/Link/green?icon=https://upload.wikimedia.org/wikipedia/commons/a/a0/Desmos_logo.svg)](https://www.desmos.com/calculator/bwifpb5lsh)</b>
+[![0.50 Power curve visualizer](https://flat.badgen.net/badge/Tire%20graphs/Link/green?icon=https://upload.wikimedia.org/wikipedia/commons/a/a0/Desmos_logo.svg)](https://www.desmos.com/calculator/lhxwlpppyh)</b>
 
 <b>[![RA Roblox](https://flat.badgen.net/badge/RA/0.50.7/red?icon=https://static.wikia.nocookie.net/logopedia/images/b/b1/Roblox_2022_icon.svg)](https://create.roblox.com/store/asset/16598010136)
 [![RA GitHub](https://flat.badgen.net/badge/RA/0.50.7/red?icon=github)](https://github.com/totallyahuman445/Roblox-Entity-R-series/releases/tag/0.50.7)</b>
