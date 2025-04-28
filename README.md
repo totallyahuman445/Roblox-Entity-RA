@@ -18,7 +18,7 @@
   <br>
 </h1>
 
-Entity is a community based distributor of Roblox vehicle chassis systems for self propelled land vehicles only. Established in 2,024, Entity's goal is to have multiple advanced options for many different vehicle types that are highly extensible and configurable. This project is open to contributions and will merge with other forks if an improvement is found. Entity is a continuation of A-Chassis 6C Version 1.51 and 1.5, 0.50 is forked from an A-Chassis 1.6 prototype build from June 2,023. 
+Entity is a community based distributor of Roblox vehicle chassis systems for self propelled land vehicles only. Established in 2,024, Entity's goal is to have multiple advanced options for many different vehicle types that are highly extensible and configurable. This project is open to contributions and will merge with other forks if an improvement is found. R-series is a continuation of A-Chassis 6C Version 1.51 and 1.5, 0.50 is forked from an A-Chassis 1.6 prototype build from June 2,023. 
 
 Entity's philosophy is:
 
