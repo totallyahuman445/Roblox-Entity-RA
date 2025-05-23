@@ -1,9 +1,9 @@
 <h1 align="center">
   <br>
-<img alt="Entity logo" src="https://github.com/totallyahuman445/Roblox-Entity-R-series/blob/main/Logo.png?raw=true" width="200px"
+<img alt="Entity logo" src="https://github.com/totallyahuman445/Roblox-Entity-RA/blob/main/Logo.png?raw=true" width="200px"
   <br>
   
-  <b>Entity R-series</b>
+  <b>Entity RA</b>
   <br>
   
   <b>[![THE List](https://flat.badgen.net/badge/THE%20List/Link/blue?icon=https://static.wikia.nocookie.net/logopedia/images/0/0e/Docs_2020.svg)](https://docs.google.com/document/d/1WvOWw7ST4ZWpsCfXM3abJTTBkCA40NsayIEIdCRJOYM/edit?usp=sharing)
@@ -14,11 +14,11 @@
 [![0.50 Power curve visualizer](https://flat.badgen.net/badge/Tire%20graphs/Link/green?icon=https://upload.wikimedia.org/wikipedia/commons/a/a0/Desmos_logo.svg)](https://www.desmos.com/calculator/lhxwlpppyh)</b>
 
 <b>[![RA Roblox](https://flat.badgen.net/badge/RA/0.50.7/red?icon=https://static.wikia.nocookie.net/logopedia/images/b/b1/Roblox_2022_icon.svg)](https://create.roblox.com/store/asset/16598010136)
-[![RA GitHub](https://flat.badgen.net/badge/RA/0.50.7/red?icon=github)](https://github.com/totallyahuman445/Roblox-Entity-R-series/releases/tag/0.50.7)</b>
+[![RA GitHub](https://flat.badgen.net/badge/RA/0.50.7/red?icon=github)](https://github.com/totallyahuman445/Roblox-Entity-RA/releases/tag/0.50.7)</b>
   <br>
 </h1>
 
-Entity is a community based distributor of Roblox vehicle chassis systems for self propelled land vehicles only. Established in 2,024, Entity's goal is to have multiple advanced options for many different vehicle types that are highly extensible and configurable. This project is open to contributions and will merge with other forks if an improvement is found. R-series is a continuation of A-Chassis 6C Version 1.51 and 1.5, 0.50 is forked from an A-Chassis 1.6 prototype build from June 2,023. 
+Entity is a community based distributor of a Roblox vehicle chassis system for self propelled land vehicles only. Established in 2,024, Entity's goal is to support many different vehicle types and be highly extensible and configurable. This project is open to contributions and will merge with other forks if an improvement is found. Entity is a continuation of A-Chassis 6C Version 1.51 and 1.5, 0.50 is forked from an A-Chassis 1.6 prototype build from June 2,023. 
 
 Entity's philosophy is:
 
@@ -37,9 +37,9 @@ Entity's philosophy is:
 - Respect how the user's avatar is set up by roblox.
 
 # Optimal Game Settings
-<img alt="Screenshot" src="https://github.com/totallyahuman445/Roblox-Entity-R-series/blob/main/Screenshot.png?raw=true" width="380px" align="right">
+<img alt="Screenshot" src="https://github.com/totallyahuman445/Roblox-Entity-RA/blob/main/Screenshot.png?raw=true" width="380px" align="right">
 
-R-series will not try to impose it's own baked in physics into your game, as a result however you are responsible for setting the game gravity to something realistic to prevent suspension crush. More dynamic suspension is sensitive to the extremely high default gravity so use the following settings.
+RA will not try to impose it's own baked in physics into your game, as a result however you are responsible for setting the game gravity to something realistic to prevent suspension crush. More dynamic suspension is sensitive to the extremely high default gravity so use the following settings.
 
 57.75 Gravity in the WorkSpace (you will have to compensate the jump settings once you change the gravity, for realism set to 0.7m)
 
