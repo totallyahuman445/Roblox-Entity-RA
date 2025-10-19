@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-<img alt="Entity logo" src="https://github.com/totallyahuman445/Roblox-Entity-RA/blob/main/Logo.png?raw=true" width="200px"
+<img alt="Entity logo" src="https://github.com/totallyahuman445/Roblox-Entity-RA/blob/master/Logo.png?raw=true" width="200px"
   <br>
   
   <b>Entity RA</b>
@@ -37,7 +37,7 @@ Entity's philosophy is:
 - Respect how the user's avatar is set up by roblox.
 
 # Optimal Game Settings
-<img alt="Screenshot" src="https://github.com/totallyahuman445/Roblox-Entity-RA/blob/main/Screenshot.png?raw=true" width="380px" align="right">
+<img alt="Screenshot" src="https://github.com/totallyahuman445/Roblox-Entity-RA/blob/master/Screenshot.png?raw=true" width="380px" align="right">
 
 RA will not try to impose it's own baked in physics into your game, as a result however you are responsible for setting the game gravity to something realistic to prevent suspension crush. More dynamic suspension is sensitive to the extremely high default gravity so use the following settings.
 
@@ -51,7 +51,8 @@ For the Roblox version just add the model to your inventory and open your invent
 For the GitHub version download the `.rbxm` file and drag and drop or right click and choose "Insert" and choose "Insert from File" and select the file.
 
 # Forking
-Using a `.rbxmx` file to update the main repository is recommended because the differences can be immediately seen on GitHub as it shows everything from parts to code changed. `.rbxmx` files are "Source" versions of `.rbxm` while `.rbxm` files are the packed but unreadable versions. Simply pick "Roblox XML Model Files" in the dropdown file type menu when saving an RBXM. You can still add an RBXM version to the main releases.
+Using a `.rbxmx` file to update the master repository is recommended because the differences can be immediately seen on GitHub as it shows everything from parts to code changed. `.rbxmx` files are "Source" versions of `.rbxm` while `.rbxm` files are the packed but unreadable versions. Simply pick "Roblox XML Model Files" in the dropdown file type menu when saving an RBXM. You can still add an RBXM version to the releases.
 
 Please set the position of the chassis to 0 in the properties by erasing everything and typing 0. This will avoid position differences when comparing the RBXMX files with the fork's and the file size.
+
 
