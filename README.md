@@ -49,10 +49,6 @@ Set road friction to 2 (the maximum) (ignore other materials like sand and grass
 For the Roblox version just add the model to your inventory and open your inventory and insert the model.
 
 For the GitHub version download the `.rbxm` file and drag and drop or right click and choose "Insert" and choose "Insert from File" and select the file.
-
-# Forking
 Using a `.rbxmx` file to update the master repository is recommended because the differences can be immediately seen on GitHub as it shows everything from parts to code changed. `.rbxmx` files are "Source" versions of `.rbxm` while `.rbxm` files are the packed but unreadable versions. Simply pick "Roblox XML Model Files" in the dropdown file type menu when saving an RBXM. You can still add an RBXM version to the releases.
 
 Please set the position of the chassis to 0 in the properties by erasing everything and typing 0. This will avoid position differences when comparing the RBXMX files with the fork's and the file size.
-
-
