@@ -10,8 +10,8 @@
 [![Entity Discord server](https://flat.badgen.net/badge/Discord/Link/purple?icon=discord)](https://discord.gg/bS2A448Vrk)
 [![Entity Log](https://flat.badgen.net/badge/Log/Link/blue?icon=https://static.wikia.nocookie.net/logopedia/images/0/0e/Docs_2020.svg)](https://docs.google.com/document/d/1SLW5NOAysg2rE6C52WEPnmOas_MNbeVNEv0xv2f__ps/edit?usp=sharing)
 [![Entity Credits](https://flat.badgen.net/badge/Credits/Link/blue?icon=https://static.wikia.nocookie.net/logopedia/images/0/0e/Docs_2020.svg)](https://docs.google.com/document/d/1-mIgEhmugHfVUDz4vzZMS7XYMoEdLKedy0MedRqvbyA/edit?usp=sharing )</b>
-[![0.50 Power curve visualizer](https://flat.badgen.net/badge/Power%20curve%20visualizer/Link/green?icon=https://upload.wikimedia.org/wikipedia/commons/a/a0/Desmos_logo.svg)](https://www.desmos.com/calculator/bwifpb5lsh)</b>
-[![0.50 Power curve visualizer](https://flat.badgen.net/badge/Tire%20graphs/Link/green?icon=https://upload.wikimedia.org/wikipedia/commons/a/a0/Desmos_logo.svg)](https://www.desmos.com/calculator/lhxwlpppyh)</b>
+[![0.51 Power curve visualizer](https://flat.badgen.net/badge/Power%20curve%20visualizer/Link/green?icon=https://upload.wikimedia.org/wikipedia/commons/a/a0/Desmos_logo.svg)](https://www.desmos.com/calculator/hibvkokwju)</b>
+[![0.51 Tire graphs](https://flat.badgen.net/badge/Tire%20graphs/Link/green?icon=https://upload.wikimedia.org/wikipedia/commons/a/a0/Desmos_logo.svg)](https://www.desmos.com/calculator/lhxwlpppyh)</b>
 
 <b>[![RA Roblox](https://flat.badgen.net/badge/RA/0.51/red?icon=https://static.wikia.nocookie.net/logopedia/images/b/b1/Roblox_2022_icon.svg)](https://create.roblox.com/store/asset/89454503627625)
 [![RA GitHub](https://flat.badgen.net/badge/RA/0.51/red?icon=github)](https://github.com/totallyahuman445/Roblox-Entity-RA/releases/tag/0.51)</b>
@@ -52,5 +52,3 @@ For the GitHub version download the `.rbxm` file and drag and drop or right clic
 Using a `.rbxmx` file to update the master repository is recommended because the differences can be immediately seen on GitHub as it shows everything from parts to code changed. `.rbxmx` files are "Source" versions of `.rbxm` while `.rbxm` files are the packed but unreadable versions. Simply pick "Roblox XML Model Files" in the dropdown file type menu when saving an RBXM. You can still add an RBXM version to the releases.
 
 Please set the position of the chassis to 0 in the properties by erasing everything and typing 0. This will avoid position differences when comparing the RBXMX files with the fork's and the file size.
-
-
