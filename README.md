@@ -14,8 +14,8 @@
 [![0.51 Power curve visualizer](https://flat.badgen.net/badge/Power%20curve%20visualizer/Link/green?icon=https://upload.wikimedia.org/wikipedia/commons/a/a0/Desmos_logo.svg)](https://www.desmos.com/calculator/hibvkokwju)</b>
 [![0.51 Tire graphs](https://flat.badgen.net/badge/Tire%20graphs/Link/green?icon=https://upload.wikimedia.org/wikipedia/commons/a/a0/Desmos_logo.svg)](https://www.desmos.com/calculator/lhxwlpppyh)</b>
 
-<b>[![RA Roblox](https://flat.badgen.net/badge/RA/0.51.1/red?icon=https://static.wikia.nocookie.net/logopedia/images/b/b1/Roblox_2022_icon.svg)](https://create.roblox.com/store/asset/77477290637510/RA-0511)
-[![RA GitHub](https://flat.badgen.net/badge/RA/0.51.1/red?icon=github)](https://github.com/totallyahuman445/Roblox-Entity-RA/releases/tag/0.51.1)</b>
+<b>[![RA Roblox](https://flat.badgen.net/badge/RA/0.51.2/red?icon=https://static.wikia.nocookie.net/logopedia/images/b/b1/Roblox_2022_icon.svg)](https://create.roblox.com/store/asset/77477290637510/RA-0511)
+[![RA GitHub](https://flat.badgen.net/badge/RA/0.51.2/red?icon=github)](https://github.com/totallyahuman445/Roblox-Entity-RA/releases/tag/0.51.2)</b>
   <br>
 </h1>
 
