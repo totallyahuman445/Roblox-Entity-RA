@@ -6,16 +6,16 @@
   <b>Entity RA</b>
   <br>
 
-  <b>[![THE List](https://flat.badgen.net/badge/THE%20List/Link/blue?icon=https://static.wikia.nocookie.net/logopedia/images/0/0e/Docs_2020.svg)](https://docs.google.com/document/d/1WvOWw7ST4ZWpsCfXM3abJTTBkCA40NsayIEIdCRJOYM/edit?usp=sharing)
+  <b>[![THE List](https://flat.badgen.net/badge/THE%20List/Link/blue?icon=https://static.wikia.nocookie.net/logopedia/images/1/13/Docs2026.svg)](https://docs.google.com/document/d/1WvOWw7ST4ZWpsCfXM3abJTTBkCA40NsayIEIdCRJOYM/edit?usp=sharing)
 [![Entity Discord server](https://flat.badgen.net/badge/Discord/Link/purple?icon=discord)](https://discord.gg/bS2A448Vrk)
 [![Entity Roblox Community](https://flat.badgen.net/badge/Community/Link/red?icon=https://static.wikia.nocookie.net/logopedia/images/b/b1/Roblox_2022_icon.svg)](https://www.roblox.com/share/g/206794047)
-[![Entity Log](https://flat.badgen.net/badge/Log/Link/blue?icon=https://static.wikia.nocookie.net/logopedia/images/0/0e/Docs_2020.svg)](https://docs.google.com/document/d/1SLW5NOAysg2rE6C52WEPnmOas_MNbeVNEv0xv2f__ps/edit?usp=sharing)
-[![Entity Credits](https://flat.badgen.net/badge/Credits/Link/blue?icon=https://static.wikia.nocookie.net/logopedia/images/0/0e/Docs_2020.svg)](https://docs.google.com/document/d/1-mIgEhmugHfVUDz4vzZMS7XYMoEdLKedy0MedRqvbyA/edit?usp=sharing )</b>
+[![Entity Log](https://flat.badgen.net/badge/Log/Link/blue?icon=https://static.wikia.nocookie.net/logopedia/images/1/13/Docs2026.svg)](https://docs.google.com/document/d/1SLW5NOAysg2rE6C52WEPnmOas_MNbeVNEv0xv2f__ps/edit?usp=sharing)
+[![Entity Credits](https://flat.badgen.net/badge/Credits/Link/blue?icon=https://static.wikia.nocookie.net/logopedia/images/1/13/Docs2026.svg)](https://docs.google.com/document/d/1-mIgEhmugHfVUDz4vzZMS7XYMoEdLKedy0MedRqvbyA/edit?usp=sharing )</b>
 [![0.51 Power curve visualizer](https://flat.badgen.net/badge/Power%20curve%20visualizer/Link/green?icon=https://upload.wikimedia.org/wikipedia/commons/a/a0/Desmos_logo.svg)](https://www.desmos.com/calculator/hibvkokwju)</b>
 [![0.51 Tire graphs](https://flat.badgen.net/badge/Tire%20graphs/Link/green?icon=https://upload.wikimedia.org/wikipedia/commons/a/a0/Desmos_logo.svg)](https://www.desmos.com/calculator/lhxwlpppyh)</b>
 
-<b>[![RA Roblox](https://flat.badgen.net/badge/RA/0.51.3/red?icon=https://static.wikia.nocookie.net/logopedia/images/b/b1/Roblox_2022_icon.svg)](https://create.roblox.com/store/asset/77477290637510/RA-0511)
-[![RA GitHub](https://flat.badgen.net/badge/RA/0.51.3/red?icon=github)](https://github.com/totallyahuman445/Roblox-Entity-RA/releases/tag/0.51.3)</b>
+<b>[![RA Roblox](https://flat.badgen.net/badge/RA/0.51.4/red?icon=https://static.wikia.nocookie.net/logopedia/images/b/b1/Roblox_2022_icon.svg)](https://create.roblox.com/store/asset/77477290637510/RA-0511)
+[![RA GitHub](https://flat.badgen.net/badge/RA/0.51.4/red?icon=github)](https://github.com/totallyahuman445/Roblox-Entity-RA/releases/tag/0.51.4)</b>
   <br>
 </h1>
 
@@ -42,9 +42,11 @@ Entity's philosophy is:
 
 RA will not try to impose it's own baked in physics into your game, as a result however you are responsible for setting the game gravity to something realistic to prevent suspension crush. More dynamic suspension is sensitive to the extremely high default gravity so use the following settings.
 
-57.75 Gravity in the WorkSpace (you will have to compensate the jump settings once you change the gravity, for realism set to 0.7m)
+- 35.025 Gravity in the WorkSpace (you will have to compensate the jump settings once you change the gravity, for realism set to 2.143 (0.7m).
 
-Set road friction to 2 (the maximum) (ignore other materials like sand and grass.)
+- Set road Friction to 2 (the maximum) (ignore other materials like sand and grass.)
+
+- Set road FrictionWeight to 3.5
 
 # Installation
 For the Roblox version just add the model to your inventory and open your inventory and insert the model.
